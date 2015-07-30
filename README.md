@@ -1,3 +1,3 @@
 # hello-world
 =============
-Just another repository
+A repository for hello world programs from many different languages
