@@ -1,6 +1,12 @@
-#include <iostream>    // declarations for I/O
+/* File: hello.cpp
+ * ---------------
+ * A c++ program made to print out "hello, world!" to the console.
+ */
 
-int main()            // main function main()
+#include <iostream> 
+
+int main()
 {
     std::cout << "Hello, world!" << std::endl;
+    return 0;
 }
