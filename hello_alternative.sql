@@ -3,7 +3,7 @@
  * This program demonstrates an alternative method
  * to selecting a "Hello, world!" string by first 
  * defining a table.
-
+ */
 -- Creating the table
 DROP TABLE IF EXISTS Hello; 
 CREATE TABLE Hello(Greeting string);
